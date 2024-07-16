@@ -1,0 +1,10 @@
+{
+	chapter_groups: [
+		{ id: "4C81E2A955B98FE8", title: "前言" }
+		{ id: "1BEAEE4C4E80329D", title: "苏醒与认知" }
+		{ id: "0BFB0010EFDEAE1A", title: "探索世界" }
+		{ id: "7B105D326F4A5469", title: "学习魔法" }
+		{ id: "78E3911CF9373CAB", title: "产业复兴" }
+		{ id: "5566AD689D433AE3", title: "真相" }
+	]
+}

@@ -1,0 +1,96 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ico"
+	group: "4C81E2A955B98FE8"
+	id: "579C637D881F8C61"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"这是作者blackwhita制作的第二款高难整合包，与前者完全不同的是这个整合包由作者本人精心设计打造，耗费时间为上个整合包的数倍，技术也相对更加成熟。"
+				"{@pagebreak}"
+				"这款整合包延续了上个整合包（EOMAW）的魔改理念（魔法与科技相互牵制，相互促进）。你可以成为肝帝直接一路肝到底，或者走一条自动化路线，咸鱼一下。无论哪种方法都能顺利通关，与此同时还设置了剧情和更加详细的介绍，再也不会出现迷茫的看不懂的发展线。"
+			]
+			id: "7889A67E342E35C0"
+			tasks: [{
+				id: "61F4717A79A3EAAA"
+				title: "欢迎"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: ["整合包安装的多款便捷mod，可以更加舒适的游玩"]
+			id: "741C3A2FB3A49419"
+			tasks: [{
+				id: "791FF235973B6B7A"
+				title: "便捷"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			description: ["alex的扩展和神化可以更好的帮助你探索，但也对你的电脑性能作出了更高的要求。"]
+			id: "0DA2214FA206A784"
+			tasks: [{
+				id: "7AA301F976767761"
+				title: "探索"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			description: ["整合包基于KubeJs魔改，并实行MIT协议，你可以尽情的使用整合包的一切，与此同时，代码里给出了很多提示可以帮助你理解更好的代码"]
+			id: "15A1C304D7737ADE"
+			tasks: [{
+				id: "42D7C460F5303888"
+				title: "魔改"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			description: ["如果你是非中文和英文用户，你可以自行寻求语言翻译，本整合包由于制作团队能力有限，不能给出正确的多语言翻译，英语编译也有很多差错。&4整合包作者不会给出官方的除英文和中文以外的翻译&r"]
+			id: "3206C227553C47B3"
+			tasks: [{
+				id: "1DFED2072D3A293E"
+				title: "语言"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			description: ["你可以提出任何不合理的任务，通过菜单的联系途径"]
+			id: "6BCE2BB3ABAF6313"
+			tasks: [{
+				id: "255BFE5B04AED418"
+				title: "任务"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"感谢来自Enigmatica Modpacks的技术支持"
+				"以及各模组制作人的教程和更新"
+			]
+			id: "29F9C349D8F1F78E"
+			tasks: [{
+				id: "5470C9489F63C0DC"
+				title: "声明与感谢"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+	]
+	title: "欢迎游玩ico系列整合包"
+}

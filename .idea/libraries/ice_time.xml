@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ice time">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ice time.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/ESM" />
+      <excludeFolder url="file://$MODULE_DIR$/PCL" />
+      <excludeFolder url="file://$MODULE_DIR$/backups" />
+      <excludeFolder url="file://$MODULE_DIR$/crash-reports" />
+      <excludeFolder url="file://$MODULE_DIR$/ice time-natives" />
+      <excludeFolder url="file://$MODULE_DIR$/journeymap" />
+      <excludeFolder url="file://$MODULE_DIR$/local" />
+      <excludeFolder url="file://$MODULE_DIR$/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/modernfix" />
+      <excludeFolder url="file://$MODULE_DIR$/mods" />
+      <excludeFolder url="file://$MODULE_DIR$/packmenu" />
+      <excludeFolder url="file://$MODULE_DIR$/patchouli_books" />
+      <excludeFolder url="file://$MODULE_DIR$/resourcepacks" />
+      <excludeFolder url="file://$MODULE_DIR$/saves" />
+      <excludeFolder url="file://$MODULE_DIR$/schematics" />
+      <excludeFolder url="file://$MODULE_DIR$/screenshots" />
+      <excludeFolder url="file://$MODULE_DIR$/shaderpacks" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

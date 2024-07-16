@@ -1,0 +1,22 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "0CF8E938DD178E82"
+	group: "1BEAEE4C4E80329D"
+	id: "0CF8E938DD178E82"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: ["你缓缓睁开双眼，看着未知的世界，什么也想不起来，仿佛你属于这个世界，又好像不属于这个世界，不管怎样，你对这个世界充满了好奇，想要去探索这片未知的大陆"]
+		id: "6B7AB493EFBCD577"
+		tasks: [{
+			id: "42B0235BB22A6F39"
+			title: "苏醒"
+			type: "checkmark"
+		}]
+		title: "苏醒"
+		x: 0.0d
+		y: 2.5d
+	}]
+	title: "苏醒"
+}

@@ -1,0 +1,27 @@
+/.idea/
+/backups/
+/crash-reports/
+/ESM/
+/ice time-natives/
+/journeymap/
+/local/
+/logs/
+/modernfix/
+/mods/
+/packmenu/
+/patchouli_books/
+/PCL/
+/resourcepacks/
+/saves/
+/schematics/
+/screenshots/
+/shaderpacks/
+/ds_private_storage.json
+/ice time.jar
+/ice time.json
+/options.txt
+/patchouli_data.json
+/rhino.local.properties
+/TrashSlotSaveState.json
+/usernamecache.json
+/usercache.json

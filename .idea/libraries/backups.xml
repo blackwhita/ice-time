@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="backups">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/backups/2024-7-16_17-30-0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/backups/2024-7-14_12-30-0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/backups/2024-7-16_18-0-0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/backups/2024-7-14_12-0-0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/backups/2024-7-14_9-30-0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/backups/2024-7-16_18-30-0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

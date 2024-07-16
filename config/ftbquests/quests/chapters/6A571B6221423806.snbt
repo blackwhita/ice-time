@@ -1,0 +1,27 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6A571B6221423806"
+	group: "7B105D326F4A5469"
+	id: "6A571B6221423806"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		icon: {
+			Count: 1
+			id: "patchouli:guide_book"
+			tag: {
+				"patchouli:book": "naturesaura:book"
+			}
+		}
+		id: "324F9C57EE590A4B"
+		tasks: [{
+			id: "1F3FC031294DEE12"
+			title: "开始"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "自然灵气"
+}
